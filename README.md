@@ -245,7 +245,7 @@ Clicking any tract shows:
 FSF's food distribution coverage relative to population need, by county, for each year data is uploaded.
 
 ### How it works
-1. User selects Impact score layer
+1. User selects Impact score Year.
 2. FSF Year dropdown shows only years with uploaded data (empty by default)
 3. User uploads a distribution CSV for a specific year
 4. Backend calculates county-level impact scores
